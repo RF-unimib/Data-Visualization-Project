@@ -29,7 +29,8 @@ The analysis demonstrates **data cleaning and preprocessing using R**, together 
   Complete R script performing data exploration, cleaning, and preprocessing.
 
 - **StudentPerformanceFactors.csv**  
-  Original dataset containing student performance indicators and contextual variables.
+  Original dataset containing student performance indicators and contextual variables. Available at https://www.kaggle.com/datasets/ayeshaseherr/student-performance
+
 
 - **StudentPerformanceFactors_final.csv**  
   Aggregated and transformed dataset used for visual analysis and charts.
