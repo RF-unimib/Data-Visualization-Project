@@ -35,7 +35,7 @@ The analysis demonstrates **data cleaning and preprocessing using R**, together 
 - **StudentPerformanceFactors_final.csv**  
   Aggregated and transformed dataset used for visual analysis and charts.
 
-- **Furgeri_Draft_DataVis**  
+- **Furgeri_DataVis_Project**  
   Final project presentation with insights and interpretations.
 
 ---
